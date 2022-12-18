@@ -26,7 +26,7 @@ content:
         icon: mountain
         icon_pack: fas
         text: Explore Tours
-        url: highaltitude/
+        url: /highaltitude/
 
     - title: Via Ferrata
       align: center
@@ -39,7 +39,7 @@ content:
         icon: mountain
         icon_pack: fas
         text: Explore Tours
-        url: viaferrata/
+        url: /viaferrata/
 
     - title: Mountain Traversing
       align: center
@@ -52,6 +52,6 @@ content:
         icon: mountain
         icon_pack: fas
         text: Explore Tours
-        url: traversing/
+        url: /traversing/
 
 ---

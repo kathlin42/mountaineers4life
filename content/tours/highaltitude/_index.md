@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: High Altitude Alpine Tours
 
 # Listing view
 view: compact
