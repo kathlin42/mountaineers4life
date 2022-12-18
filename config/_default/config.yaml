@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Mountainnering4Life # Website name
+title: Mountaineering4Life # Website name
 baseURL: 'https://github.com/kathlin42/mountaineers4life' # Website URL
 
 ############################
