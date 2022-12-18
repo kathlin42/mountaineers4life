@@ -21,7 +21,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: high_altitude.jpg
+        media: highaltitude.jpg
 
     - title: Via Ferrata
       align: center
@@ -29,7 +29,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: via_ferrata.jpg
+        media: viaferrata.jpg
 
     - title: Mountain Traversing
       align: center
