@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: Skiing in Montafon
 
 event: Wowchemy Conference
 event_url: https://example.org

@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: 
+  theme_night: minimal 
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personalized Event Planner and Bucket List for Passionated Mountaineers.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Mountaineers Lingelbach. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Dec 24, 2022'
   time_format: '3:04 PM'
   address_format: en-us
 
