@@ -9,9 +9,9 @@ design:
   slide_height: ''
   is_fullscreen: true
   # Automatically transition through slides?
-  loop: False
+  loop: false
   # Duration of transition between slides (in ms)
-  interval: 100
+  interval: 2000
 
 content:
   slides:
@@ -22,6 +22,11 @@ content:
         color: '#666'
         brightness: 0.7
         media: highaltitude.jpg
+      link:
+        icon: mountain
+        icon_pack: fas
+        text: Explore Tours
+        url: ../tours/highaltitude/
 
     - title: Via Ferrata
       align: center
@@ -30,6 +35,11 @@ content:
         color: '#555'
         brightness: 0.7
         media: viaferrata.jpg
+      link:
+        icon: mountain
+        icon_pack: fas
+        text: Explore Tours
+        url: ../tours/viaferrata/
 
     - title: Mountain Traversing
       align: center
@@ -38,5 +48,10 @@ content:
         color: '#333'
         brightness: 0.5
         media: welcome.jpg
+      link:
+        icon: mountain
+        icon_pack: fas
+        text: Explore Tours
+        url: ../tours/traversing/
 
 ---
