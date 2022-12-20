@@ -41,4 +41,3 @@ url_video: ''
 
 ## Some impressions of the funny part ...
 
-{{< video src="videoskiing.mp4" controls="no" >}}
