@@ -1,7 +1,7 @@
 ---
 title: Family Skiing in Montafon
 
-event: Family Skiing Trip
+event: family_skiing
 
 location: Montafon Silvretta
 address:
@@ -16,15 +16,15 @@ abstract: 'Kleinknechts, Lingelbachs und their better half cultivate the traditi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-13T15:00:00Z'
-date_end: '2023-01-15T18:00:00Z'
-all_day: false
+date: '2023-01-13'
+# date_end: '2023-01-15T18:00:00Z'
+all_day: True
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ''
@@ -34,10 +34,11 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
 ---
 
-{{< gallery album="familyskiing" >}}
 
+{{< gallery album="familyskiing" >}}
 
 ## Some impressions of the funny part ...
 
