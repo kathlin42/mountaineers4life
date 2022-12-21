@@ -61,6 +61,11 @@ Komplette Klettersteigausrüstung, Helm und Klettersteighandschuhe.
 ## Bemerkung zu den Versicherungen
 Stahlseil, Leitern, Trittstifte und eine 40-Meter-Riesenleiter im oberen Steigabschnitt.
 
+## Tour-Beschreibung
+
+{{< gallery album="donnerkogeltour" >}}
+
+
 ## Impressionen
 
-{{< gallery album="donnerkogel" >}}
+{{< gallery album="donnerkogelimpression" >}}
