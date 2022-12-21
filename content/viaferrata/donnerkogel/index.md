@@ -1,6 +1,5 @@
 ---
 title: Intersport Klettersteig – Donnerkogel
-
 event: Intersport Klettersteig – Donnerkogel
 
 location: Österreich - Oberösterreich - Großer Donnerkogel (2054 m)
@@ -32,9 +31,9 @@ image:
   focal_point: Right
 
 links:
-url_bergsteigen: 'https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/'
-url_googlemaps: 'https://goo.gl/maps/A1TC2AdoQY1DXDy78'
-url_video: 'https://www.youtube.com/watch?v=Ay8fQnIS6SU'
+# url_bergsteigen: 'https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/'
+# url_googlemaps: 'https://goo.gl/maps/A1TC2AdoQY1DXDy78'
+# url_video: 'https://www.youtube.com/watch?v=Ay8fQnIS6SU'
 
 ---
 ## Schwierigkeit
