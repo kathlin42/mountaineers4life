@@ -5,6 +5,7 @@ event: Family Skiing in Montafon
 
 location: Montafon Silvretta
 address:
+  street: 450 Serra Mall
   city: St. Gallenkirch im Montafon
   region: Vorarlberg
   postcode: '6791'
@@ -15,23 +16,30 @@ abstract: 'Kleinknechts, Lingelbachs und their better half cultivate the traditi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-01-01T15:00:00'
-# date_end: '2023-01-01T15:00:00Z'
+date: '2023-06-01T13:00:00Z'
+date_end: '2023-06-01T15:00:00Z'
 all_day: false
+
+
+# Schedule page publish date (NOT talk date).
+publishDate: '2022-01-01T00:00:00Z'
 
 authors: []
 tags: []
+
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
+  caption: 'Family image of Skiing 2019'
   focal_point: Right
 
-links:
 url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+slides = ""
+
 ---
 
 ## Previous trips ...
