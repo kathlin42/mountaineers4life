@@ -1,11 +1,11 @@
 ---
 title: Recent & Upcoming Events
-
+cms_exclude: true
 # Listing view
-view: compact
+view: 2
 
-# Optional header image (relative to `assets/media/` folder).
-banner:
+# Optional header image (relative to `static/media/` folder).
+header:
   caption: ''
   image: ''
 ---
