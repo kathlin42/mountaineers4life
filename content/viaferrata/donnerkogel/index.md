@@ -1,7 +1,7 @@
 ---
-title: Family Skiing in Montafon
+title: Intersport Klettersteig Donnerkogel
 
-event: Family Skiing in Montafon
+event: Intersport Klettersteig Donnerkogel
 
 location: Montafon Silvretta
 address:
@@ -11,7 +11,7 @@ address:
   postcode: '6791'
   country: Austria
 
-summary: This trip is an annual highlight of the winter season. There's nothing better than hitting the slopes and enjoying the fresh mountain air while being teased by loving, snowball-throwing siblings, parents and spouses. Let's hope for fluffy deep snow, great sunny weather and some memorable ski descents.   
+summary: A great via ferrata classic on the west side of the Dachstein - highlight is a 40-meter giant ladder on which you cross a deep gorge. In four very different stages, you climb the Intersport via ferrata on the Großer Donnerkogel. This iron route is one of the most controversial via ferrata projects in Austria. Overall, you get an appealing - and when using the giant ladder on a hugely exposed - via ferrata adventure with fantastic Dachstein views.   
 abstract: 'Kleinknechts, Lingelbachs und their better half cultivate the tradition of enjoying skiing without limits.'
 
 # Talk start and end times.
