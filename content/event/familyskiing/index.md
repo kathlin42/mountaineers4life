@@ -16,9 +16,9 @@ abstract: 'Kleinknechts, Lingelbachs und their better half cultivate the traditi
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-01T13:00:00Z'
-date_end: '2023-06-01T15:00:00Z'
-all_day: false
+date: '2023-01-13T13:00:00Z'
+date_end: '2023-01-13T15:00:00Z'
+all_day: true
 
 
 # Schedule page publish date (NOT talk date).

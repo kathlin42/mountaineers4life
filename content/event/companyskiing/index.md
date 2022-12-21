@@ -1,23 +1,23 @@
 ---
-title: Family Skiing in Montafon
+title: Company Skiing in Montafon
 
-event: Family Skiing in Montafon
+event: Company Skiing in Montafon
 
 location: Montafon Silvretta
 address:
-  street: 
-  city: St. Gallenkirch im Montafon
+  street: Dorfstraße 128/A 
+  city: Gaschurn im Montafon
   region: Vorarlberg
-  postcode: '6791'
+  postcode: '6793'
   country: Austria
 
-summary: This trip is an annual highlight of the winter season. There's nothing better than hitting the slopes and enjoying the fresh mountain air while being teased by loving, snowball-throwing siblings, parents and spouses. Let's hope for fluffy deep snow, great sunny weather and some memorable ski descents.   
-abstract: 'Kleinknechts, Lingelbachs und their better half cultivate the tradition of enjoying skiing without limits.'
+summary: BCG Skiing Trip in our favorite ski resort Montafon. A nice weekend of enjoying deep snow and the mountains.
+abstract: 'BCG Skiing Trip in our favorite ski resort Montafon. A nice weekend of enjoying deep snow and the mountains.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-01T13:00:00Z'
-date_end: '2023-06-01T15:00:00Z'
+date: '2023-01-01T13:00:00Z'
+date_end: '2023-01-01T15:00:00Z'
 all_day: false
 
 
@@ -41,11 +41,12 @@ url_video: ''
 slides: ""
 
 ---
+## Drive
 
-## Previous trips ...
+[Google Navigation von Elsterstaffel](https://goo.gl/maps/h5PfoQymmQnnVBa27)
+Fahrzeit: **3h 30min**
 
-{{< gallery album="familyskiing" >}}
+## Impressions
 
-## Some impressions of the funny part ...
+{{< gallery album="companyskiing" >}}
 
-{{< video src="videoskiing.mp4" controls="yes" >}}
