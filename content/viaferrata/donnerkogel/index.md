@@ -38,7 +38,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/'
+url_bergsteigen: 'https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/'
 url_video: ''
 
 ---
