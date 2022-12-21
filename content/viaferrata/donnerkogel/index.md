@@ -33,6 +33,10 @@ Die 40-Meter-Riesenleiter ist nur was für wirklich schwindelfreie Personen - di
 Gosaukammbahn, Dachsteingebirge, 4824 Vorarlberg Oberösterreich  
 [Google Navigation von Elsterstaffel](https://goo.gl/maps/JGZMYv2yRMvMG5MR8)
 Fahrzeit: **4h 46min**
+
+**Unterkunft**: [DAV Gablonzer Hütte](https://www.gablonzerhuette.at/de/preise.html)
+
+
 ## Genaue Routenbeschreibung
 
 ### 1. Etappe
@@ -51,7 +55,7 @@ Variante Annaberg: Vom Parkplatz am Ende der Fahrmöglichkeit folgt man der Fors
 ## Abstieg
 Vom Ausstieg in wenigen Minuten den Grat entlang zum Gipfel aufsteigen. Vom Gipfel der roten Markierung folgen und nach wenigen Minuten rechts auf den Weg 628 abzweigen und über diesen stellenweise recht unangenehm zum Unteren Törleggsattel absteigen. Dort rechts halten und zurück zur Gablonzer Hütte und weiter zur etwas unterhalb liegenden Bergstation.
 
-**ACHTUNG** Der Abstieg vom Donnerkogel ist fordernd, hat mehrere ausgesetzte Stellen und es braucht gute Trittsicherheit! Beim Abstieg stellenweise auch desolate Stahlseilsicherungen.
+**ACHTUNG** Der Abstieg vom Donnerkogel ist fordernd, hat mehrere ausgesetzte Stellen und es braucht gute Trittsicherheit! Beim Abstieg stellenweise auch desolate Stahlseilsicherungen. Da die 2. Etappe etwas erdig ist, sollte der Steig nicht bei Nässe begangen werden.
 
 
 ## Ausrüstung
