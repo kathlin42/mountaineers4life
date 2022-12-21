@@ -63,6 +63,8 @@ Auf dem AV-Steig (12 a) zurück nach Gries, am Ende steil (heikel). Die "Rache d
 
 [Tour on Klettersteig.at](http://drachenwand-klettersteig.at/)
 
+[GPX Download](https://www.bergsteigen.com/fileadmin/userdaten/import/tracks/gpx/1993.gpx)
+
 ## Tour-Beschreibung
 
 {{< gallery album="drachenwandtour" >}}

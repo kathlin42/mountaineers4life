@@ -59,6 +59,8 @@ Auf markierten Wanderwegen, anfangs absteigen, später in östlicher Richtung qu
 
 [Tour on OutdoorActive](https://www.outdooractive.com/de/route/klettersteig/region-innsbruck/der-innsbrucker-klettersteig-im-karwendel-gebirge/1362809/)
 
+[GPX Download](https://www.bergsteigen.com/fileadmin/userdaten/import/tracks/gpx/innsbrucker_klettersteig.gpx)
+
 ## Tour-Beschreibung
 
 {{< gallery album="innsbruckertour" >}}

@@ -1,7 +1,7 @@
 ---
 
-title: Königsjodler Klettersteig - Hochkönig
-event: Königsjodler Klettersteig - Hochkönig
+title: Königsjodler Hochkönig
+event: Königsjodler Hochkönig
 
 date: '2023-07-01T13:00:00Z'
 all_day: False
@@ -13,7 +13,7 @@ publishDate: '2022-12-01T00:00:00Z'
 featured: false
 
 image:
-  caption: 'Königsjodler Klettersteig - Hochkönig'
+  caption: 'Königsjodler Hochkönig'
   focal_point: Right
 
 ---
@@ -23,16 +23,16 @@ image:
 
 Dimensionen und anhaltenden Schwierigkeiten ist der Königsjodler eine der schwersten Steiganlagen im Ostalpenraum! Der Steig führt rund 1700 Klettermeter über die Teufelshörner, den Kematstein (auch Kummetstein) und endet am Hohen Kopf. Der Steig verläuft meist direkt an der wilden Gratkante und äußerst spektakulär über kleine und große Schluchten (Jungfrauensprung, Teufelsschlucht und „Flying Fox“ über den Sallerriss) und acht zum Teil sehr spitze Türme. Da man von den Turmgipfeln meist sehr steil wieder absteigt und den darauf folgenden Turm wieder aufsteigen muss, werden die 1700 Klettermeter zur Belastungsprobe. Auch landschaftlich ist der Steig sehr eindrucksvoll. An schönen Tagen ist das Panorama unschlagbar. Die Erstbegeher verlegten über die gesamte, sehr abwechslungsreiche und zum Teil recht ausgesetzte Länge eine fast durchgehende Seilsicherung (ausgenommen leichte Gehpassagen).
 
-{{< hl >}}**Schwierigkeit Mittel** {{< /hl >}}
+{{< hl >}}**Schwierigkeit Mittel-Schwer** {{< /hl >}}
 
 **Achtung**: Obwohl der Steig "nur" mit C/D bewertet ist, gehört er aufgrund seiner extremen Länge in großer Höhe zu den schwierigsten Sportklettersteigen der Ostalpen (**Gesamtanspruch wie ein langer, knackiger D-Klettersteig!**). Die Passagen sind zum Teil sehr ausgesetzt und meist nicht leichter als B/C ist (nach oben hin zunehmende Schwierigkeiten). Sehr gute Kondition und Erfahrung mit Klettersteigen in diesem Schwierigkeitsgrad sind unbedingt notwendig. Für Anfänger absolut ungeeignet.
 
 ### Ort
-5310 Mondsee, Berchtesgadener Alpen, Salzburg, Österreich
-[Google Navigation von Elsterstaffel](https://goo.gl/maps/5DTYUiD4uSEvn1Uu7)
+Mühlbach am Hochkönig, Österreich
+[Google Navigation von Elsterstaffel](https://goo.gl/maps/pkWmEBjfiioVWzJk6)
 Fahrzeit: **4h 30min**
 
-**Unterkunft**: [Gasthof Drachenwand](https://www.drachenwand.at/)
+**Unterkunft**: [Matras Haus](https://www.matrashaus.at/) oder [DAV Erichhütte](https://www.alpenverein.de/DAV-Services/Huettensuche/Erichhuette/6938068/)
 
 
 ## Genaue Routenbeschreibung
@@ -63,9 +63,11 @@ Vom Ausstieg rechtshaltend in wenigen Minuten in die Birgkarscharte absteigen (v
 ## Bemerkung zu den Versicherungen
 - Stahlseil, Trittstifte, Klammern, Dreiseilbrücke, Flying Fox (**ACHTUNG das Internet streitet sich darüber ob es eine Seilrolle gibt oder diese mitbebracht werden muss**)
 
-[Tour on Bergsteigen](https://www.bergsteigen.com/touren/klettersteig/drachenwand-klettersteig/)
+[Tour on Bergsteiger](https://bergsteiger.de/touren/klettersteig/koenigsjodler-klettersteig-auf-den-hochkoenig)
 
-[Tour on Klettersteig.at](http://drachenwand-klettersteig.at/)
+[Tour on Tourentipp](https://www.tourentipp.com/de/touren/koenigsjodler-klettersteig-hochkoenig_2026.html)
+
+[GPX Download](https://www.tourentipp.com/de/touren/downloads.php?file=koenigsjodler-hochkoenig.gpx)
 
 ## Tour-Beschreibung
 

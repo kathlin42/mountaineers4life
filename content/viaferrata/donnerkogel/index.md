@@ -72,6 +72,8 @@ Vom Ausstieg in wenigen Minuten den Grat entlang zum Gipfel aufsteigen. Vom Gipf
 
 [Tour on Alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/intersport-klettersteig-auf-den-grossen-donnerkogel/11341477/)
 
+[GPX Download](https://www.bergsteigen.com/fileadmin/userdaten/import/tracks/gpx/intersport_klettersteig_donnerkogel_track.gpx)
+
 ## Tour-Beschreibung
 
 {{< gallery album="donnerkogeltour" >}}
