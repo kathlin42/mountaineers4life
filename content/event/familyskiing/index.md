@@ -5,7 +5,7 @@ event: Family Skiing in Montafon
 
 location: Montafon Silvretta
 address:
-  street: 450 Serra Mall
+  street: 
   city: St. Gallenkirch im Montafon
   region: Vorarlberg
   postcode: '6791'

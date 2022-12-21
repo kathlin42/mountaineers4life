@@ -25,10 +25,7 @@ tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
-feedback: true
-image:
-  caption: ''
-  focal_point: Right
+
 
 links:
 # url_bergsteigen: 'https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/'
