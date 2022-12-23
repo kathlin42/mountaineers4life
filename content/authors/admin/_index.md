@@ -14,8 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Katharina Lingelbach is part of the core team of Lingelbach Mountaineering. She takes pleasure in planning and organizing challenging yet safe mountaineering trips (e.g., Watzmann Traverse). 
-Katharina is renowned for her perseverance, good humour and for ensuring constant questioning ("Hinterfragen") and sufficient culinary supply.
+bio: Katharina Lingelbach is part of the core team of Lingelbach Mountaineering. She takes pleasure in planning and organizing challenging yet safe mountaineering trips (e.g., Watzmann Traverse). Katharina is renowned for her perseverance, good humour and for ensuring constant questioning ("Hinterfragen") and sufficient culinary supply.
 
 interests:
   - Climbing & Via Ferrata
@@ -50,5 +49,4 @@ user_groups:
   - Core Team
 ---
 
-Katharina Lingelbach is part of the core team of Lingelbach Mountaineering. She takes pleasure in planning and organizing challenging yet safe mountaineering trips (e.g., Watzmann Traverse). 
-Katharina is renowned for her perseverance, good humour and for ensuring constant questioning ("Hinterfragen") and sufficient culinary supply.
+Katharina Lingelbach is part of the core team of Lingelbach Mountaineering. She takes pleasure in planning and organizing challenging yet safe mountaineering trips (e.g., Watzmann Traverse). Katharina is renowned for her perseverance, good humour and for ensuring constant questioning ("Hinterfragen") and sufficient culinary supply.
