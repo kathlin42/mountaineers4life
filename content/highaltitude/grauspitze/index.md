@@ -1,10 +1,9 @@
 ---
 
-title: Intersport Klettersteig Donnerkogel
-event: Intersport Klettersteig Donnerkogel
-
+title: Vordere Grauspitze
+event: Vordere Grauspitze
 date: '2023-07-01T13:00:00Z'
-all_day: False
+all_day: True
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-12-01T00:00:00Z'
@@ -13,72 +12,54 @@ publishDate: '2022-12-01T00:00:00Z'
 featured: false
 
 image:
-  caption: '40-meter giant ladder Via Ferrata Donnerkogel'
+  caption: 'Vordere Grauspitze'
   focal_point: Right
 
 ---
 
 ## Übersicht
-**Großer Donnerkogel (2054 m)**
+**Vordere Grauspitze (2.599m)**
 
-Ein toller Klettersteigklassiker an der Westseite des Dachsteins - Highlight ist eine 40-Meter-Riesenleiter auf der man eine tiefe Schlucht überquert. In vier sehr unterschiedlichen Etappen klettert man am Intersport Klettersteig auf den Großen Donnerkogel. Bei diesem Eisenweg handelt es sich um eines der umstrittensten Klettersteigprojekte in Österreich. Gesamt kommt man auf ein ansprechendes - und bei Benutzung der Riesenleiter auf ein gewaltig ausgesetztes - Klettersteigabenteuer mit fantastischem Dachsteinblick.
+ie Vordere Grauspitze (2.599m) war bis vor wenigen Jahren ein kaum beachteter und selten bestiegener Berg. Dies änderte sich als ein gewisser Alexander Römer eine Liste der Seven Summits (englisch für 7 Gipfel) der Alpen erstellte, nach seiner Meinung die 7 jeweils höchsten Gipfel der Länder, welche geografisch zu den Alpen gehören. Die Vordere Grauspitze wartet nicht auf mit Wegweisern oder rot-weiß gepunkteten Wegmarkierungen, nein hier ist der eigene Weg noch das Ziel und diesen muss man erst einmal finden.
 
-{{< hl >}}**Schwierigkeit Mittel** {{< /hl >}}
+{{< hl >}}**Schwierigkeit Schwer** {{< /hl >}}
 
-Zwei Passagen C/D - an der "Kaiserverschneidung" und am Donnermandl. Stellen C und B/C, sonst meist aber um B.
-Die 40-Meter-Riesenleiter ist nur was für wirklich schwindelfreie Personen - die Leiter ist ansich einfach (B) wird aber wegen der hohen Ausgesetztheit oft als schwerer empfunden. Es kommt oft zu Staus, da viele lieber alleine (weil die Leiter dann nicht so wackelt) hinauf zum Donnermandl klettern.
-
+Der Weg ist nicht immer klar erkennbar und schlecht ausgeschildert.
+Am Grat vom Schwarzhorn zur Vorder Grauspitz ist das Gestein sehr brüchig und bei nassem Wetter äußerst rutschig. Da die Kletterstellen nicht versichert sind, besteht Absturzgefahr.
   
 ### Ort
-Gosaukammbahn, Dachsteingebirge, 4824 Vorarlberg Oberösterreich  
-[Google Navigation von Elsterstaffel](https://goo.gl/maps/JGZMYv2yRMvMG5MR8)
-Fahrzeit: **4h 46min**
+7208 Malans, Liechtenstein
+[Google Navigation von Elsterstaffel](https://goo.gl/maps/LXDAftfPQL3xkAMo6)
+Fahrzeit: **3h 30min**
 
 **Unterkunft**: [DAV Gablonzer Hütte](https://www.gablonzerhuette.at/de/preise.html)
 
 
-## Genaue Routenbeschreibung
-
-### 1. Etappe
-Vom Einstieg kurz zu einem Eck aufsteigen (B/C). Eine schöne Plattenquerung (A/B) führt zu einem Spreizschritt (B/C). Es folgt die steile und anstrengende Kaiser-Verschneidung (C/D), eine der beiden Schlüsselstellen. Anschließend links auf ein erdiges Band (A und A/B) und zu einer weiteren, etwas schwierigeren Plattenquerung (C). Um ein Eck herum geht es zur Enzianwand (B/C). Im Zick-Zack-Kurs geht es durch die Latschen empor und anschließend links in einen Sattel. Dort befindet sich ein Notausstieg (rechts hinunter). Über zwei Leitern (B, dazwischen kurz C) wird der flache Ziehkögelgrat (max. A/B) erreicht. Am Ende der 1. Etappe folgt ein weiterer Notausstieg (rechts hinunter).
-### 2. Etappe
-Im Abschnitt "Es lebe die Jagd" wird zuerst nach links gequert (A/B). Anschließend folgen einige auf den Boden gelegte Leitern (A). Nach einer weiteren Querung (A) folgen einige Aufschwünge (B). Nach dem Gamsband (A) muss ein Stück im erdig-rutschigen Gelände abgeklettert werden (A/B). Anschließend steigt die lange Querung wieder an (A/B, kurze Stelle B/C) und trifft auf die 40-Meter-Riesenleiter. Bei der Leiter kann man in leichtes Gelände aussteigen und das Donnermandl umgehen oder zum Abstiegsweg absteigen (Notabstieg). Highlight ist natürlich die 40-Meter-Riesenleiter, auf welcher man leicht (B) aber sehr ausgesetzt und deshalb von vielen als schwerer empfunden direkt hinüber zum Donnermandl klettern kann.
-### 3. Etappe - ohne Riesenleiter
-Nach kurzem Gehgelände (Notabstieg nach rechts) folgt eine kurze Querung (A/B und C) und der steile und sehr ausgesetzte Aufschwung - dort dockt auch die 40-Meter-Riesenleiter an das Donnermandl - (zuerst C/D, dann leichter) aufs Donnermandl (1.920 m). Dieser stellt die zweite Schlüsselstelle des Steigs dar (diese muss auch von Riesenleitern-Kletterern bewältigt werden). Anschließend kurz in eine Scharte abklettern (B). Die 3. Etappe kann auch umgangen werden.
-### 4. Etappe 
-Recht steil über den Nordwestgrat die ehemalige Preuß-Route hinauf (C). Bald wird der Grat flacher und breiter (B). Der Ausstieg wird nach Überwindung einzelner Steilstufen (A/B und A) erreicht.
-
-## Zustieg zur Wand
-Von der Bergstation der Gosaukammbahn folgt man dem Weg bis zur Gablonzer Hütte (bis dorthin kann man auch auf dem Weg Nr. 620 in ca. 1¼ Stunden  zu Fuß aufsteigen). Direkt bei der Gablonzer Hütte zweigt man links auf den Weg 611 ab und steigt zum Oberen Törleggsattel (Infotafel) auf. Dort links halten und in wenigen Minuten zum Einstieg absteigen. 
-Variante Annaberg: Vom Parkplatz am Ende der Fahrmöglichkeit folgt man der Forststraße bis man die Wiesen des Schigebietes Zwieselalm erreicht (ist beschildert). Bei der Riedlkaralm (Forststraße) auf einem markierten Steig zur Gablonzer Hütte. Zeit: 1 - 1,5 Stunden bis zum Einstieg.
-
-## Abstieg
-Vom Ausstieg in wenigen Minuten den Grat entlang zum Gipfel aufsteigen. Vom Gipfel der roten Markierung folgen und nach wenigen Minuten rechts auf den Weg 628 abzweigen und über diesen stellenweise recht unangenehm zum Unteren Törleggsattel absteigen. Dort rechts halten und zurück zur Gablonzer Hütte und weiter zur etwas unterhalb liegenden Bergstation.
-
-**ACHTUNG** Der Abstieg vom Donnerkogel ist fordernd, hat mehrere ausgesetzte Stellen und es braucht gute Trittsicherheit! Beim Abstieg stellenweise auch desolate Stahlseilsicherungen. Da die 2. Etappe etwas erdig ist, sollte der Steig nicht bei Nässe begangen werden.
+## Genaue Routenbeschreibung (Von der Nordseite)
 
 
-## Ausrüstung
-- [x] Komplette Klettersteigausrüstung, 
-- [x] Helm,
-- [x] Klettersteighandschuhe
+Vom Wanderparkplatz beim Gänglisee in Steg (1.304 m) folgt man zunächst einem Waldweg, der entlang des Gänglisees bzw. dessen Zufluss führt. Nach etwa 2,5km erreicht man eine Brücke, die auf die andere Seite des Valünerbachs führt. Dabei verlässt man den Waldweg und wechselt auf einen Schotterweg, der als Versorgungsweg für die umliegenden Hütten dient. Eine dieser Hütten passiert man kurz hinter der Brücke. (T1, ½h)
 
-## Bemerkung zu den Versicherungen
-- Stahlseil, 
-- Leitern, 
-- Trittstifte 
+Dem Schotterweg folgt man weitere 2km in Richtung Vorder Grauspitz. (T1, 1h)
 
-[Tour on Bergsteigen](https://www.bergsteigen.com/touren/klettersteig/intersport-klettersteig-donnerkogel/)
+Einige hundert Meter hinter der S-Kurve wechselt man nun auf einen Pfad. Dieser ist leider etwas schlecht erkennbar, da sich der Pfad immer wieder aufteilt und ebenso schlecht ausgeschildert. Am Besten folgt man zunächst dem ausgetretenen Pfad entlang des Weidezauns. Beim Erreichen des Endes des Weidezaun hält man sich scharf rechts. Hier ist der Weg ebenfalls schlecht erkennbar und es waren leider keine Schilder erkennbar. Nach einigen hundert Metern bergauf passiert man eine Tränke für die weidenden Kühe. Ab hier führt ein besser erkennbarer Pfad geradewegs zu einer kleinen Scharte zum Schwarzhorn. Hat man diese erreicht, folgt man dem unschwierigen Weg vorbei an einer schwarzen Gedenkstatue für ein abgestürztes Mädchen. Einige Meter dahinter erreicht man das Gipfelkreuz des Schwarzhorns.  (T3, 2½h)
 
-[Tour on Alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/intersport-klettersteig-auf-den-grossen-donnerkogel/11341477/)
+Bis zu diesem Punkt war die Wanderung nicht zu anspruchsvoll und – abgesehen von der Orientierung – einfach zu gehen. Dies ändert sich jedoch nun. Das Ziel in sichtweitet steigt man von dem Gipfelkreuz des Schwarzhorns zunächst einige Höhenmeter ab. Das Gestein ist dabei oft brüchig und man sollte sehr vorsichtig sein. Man folgt dem Grat zur Vorder Grauspitze ca. 600m, die sich durch das schwierige Gelände und die Kletterstellen allerdings etwas ziehen. Am Ende hat man es jedoch geschafft und den höchsten Gipfel Liechtensteins erreicht. Im Gegensatz zum Schwarzhorn ist der Gipfel lediglich mit einem Steinhaufen gekennzeichnet, in dem das Gipfelbuch liegt.  (T4+, I-II, ¾h)
 
-[GPX Download](https://www.bergsteigen.com/fileadmin/userdaten/import/tracks/gpx/intersport_klettersteig_donnerkogel_track.gpx)
+Für den Rückweg zum Wanderparkplatz folgt man denselben Wegen, der auch für den Hinweg benutzt wurde. (3½h)
+
+**Alternative von Malans mit der Äplibahn (von der Südseite)** 
+
+
+[Tour on DAV](https://www.dav-suedharz.de/2020/09/04/der-versteckte-berg-vordere-grauspitze-hoechster-des-fuerstentum-liechtenstein/)
+
+[Tour on Outdooractive](https://www.outdooractive.com/de/route/bergtour/heidiland/vorder-grauspitz-2.599m-hoechster-berg-liechtensteins-ab-steg-bei/118840583/)
 
 ## Tour-Beschreibung
 
-{{< gallery album="donnerkogeltour" >}}
+{{< gallery album="grauspitztour" >}}
 
 
 ## Impressionen
 
-{{< gallery album="donnerkogelimpression" >}}
+{{< gallery album="grauspitzimpression" >}}

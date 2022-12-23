@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. I live for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When I'm not scaling the heights, I'm singing my way around via ferratas, and I never miss an opportunity to try a new one. Come join me on my next adventure and let's conquer the world together!
+bio: Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. He lives for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When he is not scaling the heights, he is singing his way around via ferratas, and never misses an opportunity to try a new one. Up to next adventure and to conquer the world!
 interests:
   - Climbing & Via Ferrata
   - High Altitude Alpine Tours
@@ -48,4 +48,4 @@ user_groups:
   - Core Team
 ---
 
-Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. I live for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When I'm not scaling the heights, I'm singing my way around via ferratas, and I never miss an opportunity to try a new one. Come join me on my next adventure and let's conquer the world together!
+Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. He lives for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When he is not scaling the heights, he is singing his way around via ferratas, and never misses an opportunity to try a new one. Up to next adventure and to conquer the world!
