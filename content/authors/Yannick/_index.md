@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My ...
+bio: Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. I live for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When I'm not scaling the heights, I'm singing my way around via ferratas, and I never miss an opportunity to try a new one. Come join me on my next adventure and let's conquer the world together!
 interests:
   - Climbing & Via Ferrata
   - High Altitude Alpine Tours
@@ -38,12 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fab
-    link: 'mailto:test@example.org'
   - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: www.instagram.com/ianus322
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -51,4 +48,4 @@ user_groups:
   - Core Team
 ---
 
-Yannick Lingelbach ...
+Yannick Lingelbach loves nothing more than the thrill of a challenging climb and the satisfaction of a successful ascent. I live for the views from the top, the fresh air of the high altitude, and the satisfaction of a hard-earned achievement. When I'm not scaling the heights, I'm singing my way around via ferratas, and I never miss an opportunity to try a new one. Come join me on my next adventure and let's conquer the world together!

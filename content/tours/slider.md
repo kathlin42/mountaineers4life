@@ -41,17 +41,4 @@ content:
         text: Explore Tours
         url: /viaferrata/
 
-    - title: Mountain Traversing
-      align: center
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
-      link:
-        icon: mountain
-        icon_pack: fas
-        text: Explore Tours
-        url: /traversing/
-
 ---

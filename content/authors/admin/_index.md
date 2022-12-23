@@ -3,7 +3,7 @@
 title: Katharina Lingelbach
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Fierce Fighter
@@ -14,7 +14,9 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My ...
+bio: Katharina Lingelbach is part of the core team of Lingelbach Mountaineering. She takes pleasure in planning and organizing challenging yet safe mountaineering trips (e.g., Watzmann Traverse). 
+Katharina is renowned for her perseverance, good humour and for ensuring constant questioning ("Hinterfragen") and sufficient culinary supply.
+
 interests:
   - Climbing & Via Ferrata
   - High Altitude Alpine Tours
