@@ -57,9 +57,9 @@ Für den Rückweg zum Wanderparkplatz folgt man denselben Wegen, der auch für d
 
 ## Tour-Beschreibung
 
-{{< gallery album="grauspitztour" >}}
+{{< gallery album="grauspitzetour" >}}
 
 
 ## Impressionen
 
-{{< gallery album="grauspitzimpression" >}}
+{{< gallery album="grauspitzeimpression" >}}
