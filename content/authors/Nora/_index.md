@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Stragetic
+role: Boulder Monkey
 
 # Organizations/Affiliations
 organizations:

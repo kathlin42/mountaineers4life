@@ -34,4 +34,4 @@ user_groups:
   - Frequent Visitor
 ---
 
-Flo is famous for ...
+Flo is the ultimate all-rounder and ready for every summit! He is flexible, resilient, creative, innovative, enthusiastic, a team player and... uh... creative.
