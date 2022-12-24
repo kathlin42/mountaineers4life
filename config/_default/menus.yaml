@@ -16,9 +16,3 @@ main:
   - name: Team
     url: team
     weight: 40
-  - name: Gallery
-    url: gallery
-    weight: 50
-  - name: FAQ
-    url: faq
-    weight: 60
