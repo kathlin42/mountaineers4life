@@ -40,5 +40,18 @@ content:
         icon_pack: fas
         text: Explore Tours
         url: /viaferrata/
+    - title: Traversing
+      align: center
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: welcome.jpg
+      link:
+        icon: mountain
+        icon_pack: fas
+        text: Explore Tours
+        url: /traversing/
+
 
 ---

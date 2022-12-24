@@ -18,8 +18,8 @@ image:
 
 ---
 
-## Übersicht
-**Gailtaler Alpen und Lienzer Dolomiten - Kreidenfeuer (1615 m)**
+## **Gailtaler Alpen und Lienzer Dolomiten - Kreidenfeuer (1615 m)**
+
 
 Der im Sommer 2006 eröffnete Klettersteig verläuft neben dem beliebten Wasserschaupfad durch die Galitzenklamm. Die beiden Nepalbrücken und die ständige Nähe zum Wasser sind die Höhepunkte des Klettersteigs. Insgesamt wurden 270 Meter Stahlseil und 250 Anker verbaut.
 

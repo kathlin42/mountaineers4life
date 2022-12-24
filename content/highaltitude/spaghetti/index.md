@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Spaghetti Runde 11 Viertausender im Monte Rosa Gebiet**
+## **Spaghetti Runde 11 Viertausender im Monte Rosa Gebiet**
 
 Die Tour Spaghetti Runde “klassisch” im Monte Rosa Massi, auch bekannt unter dem Namen Spaghetti Tour. Wandel zwischen Himmel und Erde. Der Grenzkamm zwischen Italien und der Schweiz bietet die größte Ansammlung von 4000ern der Alpen! Ohne einmal ins Tal absteigen zu müssen, können wir bis zu 11x 4000er aneinanderreihen. Die eher einfachen Aufstiege und gezielte Steigerung mit guter Akklimatisation bieten Dir die beste Voraussetzung für Gipfelerfolge. Was für Aussichten!
 Ein Höhepunkt bildet auch die Besteigung der höchstgelegenen Hütte Europas, der Cap. Regina Margherita, auf der Signalkuppe 4554m.

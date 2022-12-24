@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Berchtesgadener Alpen Grünstein (1304 m)**
+## **Berchtesgadener Alpen Grünstein (1304 m)**
 
 Der Grünstein Klettersteig - die „Direttissima“ über dem Königssee wird in Zukunft vermehrt Klettersteiggeher unter den Watzmann locken! Der Klettersteig wurde unten geschickt in vier Varianten aufgeteilt, oben genießt man dann den fantastischen Blick auf den malerischen Königssee. Vor allem die schweren Varianten sind ein gelungener Mix aus überhängenden Klammerplatten und glatten Querungspassagen. Krönender Abschluss ist die lange und etwas wackelige Hängebrücke. Genussklettersteiggeher steigen in der Regel über die Isidor-Variante zur Hängebrücke auf und können – da genau daneben – mitverfolgen, wie sich die Kletterer in der schweren Variante die Finger lang ziehen. Die sehr gut angelegte Steiganlage ist ein gelungener Mix aus vertikalem Drahtseilakt und landschaftlichem Hochgenuss und passt sehr gut zu den anderen Klettersteigen der Region.
 {{< hl >}}**Schwierigkeit Mittel** {{< /hl >}}

@@ -18,8 +18,8 @@ image:
 
 ---
 
-## Übersicht
-**Großer Donnerkogel (2054 m)**
+## **Großer Donnerkogel (2054 m)**
+
 
 Ein toller Klettersteigklassiker an der Westseite des Dachsteins - Highlight ist eine 40-Meter-Riesenleiter auf der man eine tiefe Schlucht überquert. In vier sehr unterschiedlichen Etappen klettert man am Intersport Klettersteig auf den Großen Donnerkogel. Bei diesem Eisenweg handelt es sich um eines der umstrittensten Klettersteigprojekte in Österreich. Gesamt kommt man auf ein ansprechendes - und bei Benutzung der Riesenleiter auf ein gewaltig ausgesetztes - Klettersteigabenteuer mit fantastischem Dachsteinblick.
 

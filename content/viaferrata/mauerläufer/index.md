@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Wetterstein-Gebirge und Mieminger Kette Bernadeinkopf (2144 m)**
+## **Wetterstein-Gebirge und Mieminger Kette Bernadeinkopf (2144 m)**
 
 Fantastischer Sportklettersteig in der schattigen Nordwand des Bernadeinkopfes. Der Klettersteig ist ein grandioser Mix aus vertikalem, sehr Kräfte zehrendem Drahtseilakt und ein paar Actionpassagen (Seilleiter und Seilbrücke). Die ersten Wochen nach der Eröffnung haben schon gezeigt, dass diese Steiganlage primär den extremen Klettersteiggeher anspricht, selten findet man derart lange und luftige Ausdauerpassagen in einem Klettersteig. Trotz der guten Absicherung bleibt ein hohes Maß an Nervenkitzel bestehen, da auf den 400 Klettermetern gute Rastmöglichkeiten nur spärlich vorhanden sind und man längere Passagen am Stück klettern muss. In Kombination mit dem Weiterweg über den Ostgrat auf die Alpspitze eine der besten – aber auch schwersten - Klettersteigtouren Deutschlands.
 

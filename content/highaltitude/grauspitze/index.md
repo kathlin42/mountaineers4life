@@ -17,10 +17,10 @@ image:
 
 ---
 
-## Übersicht
-**Vordere Grauspitze (2.599m)**
+## **Vordere Grauspitze (2.599m)**
 
-ie Vordere Grauspitze (2.599m) war bis vor wenigen Jahren ein kaum beachteter und selten bestiegener Berg. Dies änderte sich als ein gewisser Alexander Römer eine Liste der Seven Summits (englisch für 7 Gipfel) der Alpen erstellte, nach seiner Meinung die 7 jeweils höchsten Gipfel der Länder, welche geografisch zu den Alpen gehören. Die Vordere Grauspitze wartet nicht auf mit Wegweisern oder rot-weiß gepunkteten Wegmarkierungen, nein hier ist der eigene Weg noch das Ziel und diesen muss man erst einmal finden.
+
+Die Vordere Grauspitze (2.599m) war bis vor wenigen Jahren ein kaum beachteter und selten bestiegener Berg. Dies änderte sich als ein gewisser Alexander Römer eine Liste der Seven Summits (englisch für 7 Gipfel) der Alpen erstellte, nach seiner Meinung die 7 jeweils höchsten Gipfel der Länder, welche geografisch zu den Alpen gehören. Die Vordere Grauspitze wartet nicht auf mit Wegweisern oder rot-weiß gepunkteten Wegmarkierungen, nein hier ist der eigene Weg noch das Ziel und diesen muss man erst einmal finden.
 
 {{< hl >}}**Schwierigkeit Schwer** {{< /hl >}}
 

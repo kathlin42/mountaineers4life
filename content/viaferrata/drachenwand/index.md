@@ -18,8 +18,8 @@ image:
 
 ---
 
-## Übersicht
-**Salzkammergut-Berge Drachenwand (1060 m)**
+## **Salzkammergut-Berge Drachenwand (1060 m)**
+
 
 An der Drachenwand, direkt über den blauen Fluten des Mondsees befindet sich eines der Ferrata-Highlights im Nahbreich von Salzburg. Die lange Genuss-Ferrata ist nie richtig schwer, sollte aber aufgrund der 560 Klettermeter nicht unterschätzt werden. Vom Gipfel genießt man die fantastische Fernsicht über das Seengebiet bis hin zu den meist schneebedeckten Gipfeln des Dachsteinmassivs. Nach einer Rast auf den Gipfelsteinen kann man beim Abstieg durch das sog. Drachenloch auf den Mondsee schauen.
 

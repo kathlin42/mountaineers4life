@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Berchtesgadener Alpen Hoher Kopf (2875 m)**
+## **Berchtesgadener Alpen Hoher Kopf (2875 m)**
 
 Dimensionen und anhaltenden Schwierigkeiten ist der Königsjodler eine der schwersten Steiganlagen im Ostalpenraum! Der Steig führt rund 1700 Klettermeter über die Teufelshörner, den Kematstein (auch Kummetstein) und endet am Hohen Kopf. Der Steig verläuft meist direkt an der wilden Gratkante und äußerst spektakulär über kleine und große Schluchten (Jungfrauensprung, Teufelsschlucht und „Flying Fox“ über den Sallerriss) und acht zum Teil sehr spitze Türme. Da man von den Turmgipfeln meist sehr steil wieder absteigt und den darauf folgenden Turm wieder aufsteigen muss, werden die 1700 Klettermeter zur Belastungsprobe. Auch landschaftlich ist der Steig sehr eindrucksvoll. An schönen Tagen ist das Panorama unschlagbar. Die Erstbegeher verlegten über die gesamte, sehr abwechslungsreiche und zum Teil recht ausgesetzte Länge eine fast durchgehende Seilsicherung (ausgenommen leichte Gehpassagen).
 

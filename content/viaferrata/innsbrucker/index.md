@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Karwendelgebirge Kemacher (2480 m)**
+## **Karwendelgebirge Kemacher (2480 m)**
 
 In zwei Teilen führt der Innsbrucker Klettersteig vom Hafelekar über den "Langen Sattel" zum Frau-Hitt-Sattel - wobei zahlreiche Gipfel bestiegen werden. Vor allem landschaftlich hat dieser Klettersteig viel zu bieten - neben grandiosen Blicken auf das fast 2000 Meter tiefer gelegene Innsbruck, kann man auch einen unglaublichen Fernblick auf die vergletscherten Berge des Alpenhauptkammes genießen. Klettertechnisch wartet dieser Klettersteig mit anspruchsvollen und originellen Passagen (Hängebrücke) auf. Abwechslung in der Routenführung ist garantiert, da der erste Teil hauptsächlich auf einem Grat entlang verläuft, der zweite Teil hingegen durch ein Labyrinth von Felstürmen, Scharten und sehr steilen Wandpassagen führt. Der Klettersteig ist ein Klassiker, den man gemacht haben sollte!
 

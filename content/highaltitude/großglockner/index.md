@@ -18,8 +18,7 @@ image:
 
 ---
 
-## Übersicht
-**Großglockner (3.798 m)**
+## **Großglockner (3.798 m)**
 
 Der größte und bekannteste Gipfel in Österreich, spitz und steil ragt sein Gipfel oberhalb von Kals in den Himmel. Vom goldenen Gipfelkreuz sieht man majestätisch in alle Himmelsrichtungen und die Mühen der Besteigung sind verflogen. Anders, wenn man sich in einem der vielen Staus bis zum Gipfel vorkämpfen und den höchsten Punkt Österreiches im überfüllten Zustand genießen muss - dies ist die Kehrseite des Parade-Dreitausenders.
 
