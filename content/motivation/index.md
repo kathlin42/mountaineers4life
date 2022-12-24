@@ -26,5 +26,8 @@ Die Liste wird sicherlich noch wachsen über die Zeit. Manche der Touren werden 
 
 
 _„Das Mögliche im Unmöglichen zu suchen bedeutete immer auch, ins Geheimnisvolle vorzudringen. So blieb es reizvoll, immer neue Herausforderungen zu erfinden.“_
+
 Reinhold Messner
+
+{{< gallery album="motivation" >}}
 
