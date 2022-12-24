@@ -14,7 +14,10 @@ design:
 ---
 
 <br>
-High Altitude Alpine Tours, Via Ferratas or Traversing Peaks.
+High Altitude Alpine Tours, Via Ferratas or Traversing Peaks...
+
+The mountains are calling ...
+
 <br>
 Join the Group and reach new heights!
 

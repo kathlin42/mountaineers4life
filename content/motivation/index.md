@@ -1,7 +1,7 @@
 ---
-title: An example title
-summary: Here we describe how to add a page to your site.
-date: "2018-06-28T00:00:00Z"
+title: Der Berg ruft...
+summary: Motivation why to climb
+date: "2022-12-24T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -10,8 +10,14 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `assets/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "K2 - Pakistan"
+  image: "motivation.jpg"
 ---
 
-Add your *content* here...
+## Die Bucket Liste der Touren
+
+Die Website ist im Zuge eines Weihnachtsgeschenk entstanden. 
+
+__„Das Mögliche im Unmöglichen zu suchen bedeutete immer auch, ins Geheimnisvolle vorzudringen. So blieb es reizvoll, immer neue Herausforderungen zu erfinden.“__
+Reinhold Messner
+
