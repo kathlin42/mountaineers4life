@@ -18,7 +18,7 @@ image:
 
 ---
 
-## **Glarner Alpen - Tödi (3614 m) **
+## **Glarner Alpen - Tödi (3614 m)**
 
 Als markante Bergkette sind sie bereits weit von Norden aus zu sehen: die eisbedeckten Gipfel der Glarner Alpen mit dem alles überragenden dreigipfligen Massiv des wuchtigen Tödi. Ein lockendes Ziel für abwechslungsreiche Hochtourentage! Unterhalb des Klausenpasses startend nähern wir uns über die Zwischenstationen von Claridenhütte, Gipfel des Clariden, 3267 m, Planurahütte und Gross Schärhorn, 3294 m, unserem Ausgangspunkt für die Tödi-Besteigung, der urgemütlichen Fridolinshütte. Der wildzerklüftete Bifertenfirn und das Felsband der Gelben Wand sind die Schlüsselpassagen, dann ist der Weg frei zum Gipfelkreuz des Tödi in 3614 Meter Höhe.
 
