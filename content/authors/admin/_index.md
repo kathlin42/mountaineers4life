@@ -30,7 +30,6 @@ education:
       institution: DAV - Deutscher Alpen Verein
       year: 2022
 
-
 # Social/Academic Networking
 social:
   - icon: envelope
