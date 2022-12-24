@@ -78,9 +78,6 @@ Bei Schnee und Vereisung werden die Verhältnisse rasch heikel!
 
 [Tour on Alpenvereinaktiv](https://www.alpenvereinaktiv.com/de/tour/dachstein-ueberschreitung/37499710/#dmdtab=oax-tab3)
 
-## Tour-Beschreibung
-{{< gallery album="dachsteintour" >}}
-
 
 ## Impressionen
 {{< gallery album="dachsteinimpression" >}}
