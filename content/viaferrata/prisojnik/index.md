@@ -23,11 +23,13 @@ image:
 Mehrstündigen Tour zum Fensterweg auf den Prisojnik im Triglav Nationalpark. Genießt die atemberaubenden Aussicht auf dem 2.547 m hohen Prisojnik-Gipfel!
 
 {{< hl >}}**Schwierigkeit Mittel C/D** {{< /hl >}}
+
 Gehzeit: **4 h 30 min**
 
 ### Ort
 Tičar Lodge on the Vršič Pass, 5232 Soča, Slowenien
 [Google Navigation von Sophie Villach](https://goo.gl/maps/ksqsTGiQMQeLVsu1A)
+
 Fahrzeit: **54 min**
 
 ## Genaue Routenbeschreibung
